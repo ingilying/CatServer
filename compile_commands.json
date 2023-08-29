@@ -1,0 +1,16 @@
+[
+{
+  "directory": "/home/ingil/projects/catserver",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-std=c++17", "-I", "/home/ingil/.xmake/packages/m/mariadb-connector-cpp/@default/4e0143c97b65425b855ad5fd03038b6a/include", "-I", "/home/ingil/.xmake/packages/s/spdlog/v1.12.0/e24126f106564f7c97234caa2b9c81c5/include", "-o", "build/.objs/catserver/linux/x86_64/debug/src/main.cpp.o", "src/main.cpp"],
+  "file": "src/main.cpp"
+},
+{
+  "directory": "/home/ingil/projects/catserver",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-std=c++17", "-I", "/home/ingil/.xmake/packages/m/mariadb-connector-cpp/@default/4e0143c97b65425b855ad5fd03038b6a/include", "-I", "/home/ingil/.xmake/packages/s/spdlog/v1.12.0/e24126f106564f7c97234caa2b9c81c5/include", "-o", "build/.objs/catserver/linux/x86_64/debug/src/database/DBPool.cpp.o", "src/database/DBPool.cpp"],
+  "file": "src/database/DBPool.cpp"
+},
+{
+  "directory": "/home/ingil/projects/catserver",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-std=c++17", "-I", "/home/ingil/.xmake/packages/m/mariadb-connector-cpp/@default/4e0143c97b65425b855ad5fd03038b6a/include", "-I", "/home/ingil/.xmake/packages/s/spdlog/v1.12.0/e24126f106564f7c97234caa2b9c81c5/include", "-o", "build/.objs/catserver/linux/x86_64/debug/src/proto/user.pb.cc.o", "src/proto/user.pb.cc"],
+  "file": "src/proto/user.pb.cc"
+}]
